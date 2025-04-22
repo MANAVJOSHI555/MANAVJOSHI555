@@ -7,6 +7,7 @@
 
 ## 💡 About Me
 
+- 🏆 **2x Kaggle Expert** with **Global Discussions Rank under 150**
 - 🔍 Exploring the world of **Machine Learning**, **Cybersecurity**, and **Competitive Programming**
 - 💻 Currently learning **C++**, **DSA**, **Deep Learning**, and **Operating Systems**
 - 🛠️ Passionate about building real-world projects and helping others through tech
