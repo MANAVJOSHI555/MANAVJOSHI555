@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Manav Joshi! 👋</h1>
 <p align="center">
-  <i>ML Explorer | Competitive Programmer | Cybersecurity Learner | Passionate Builder</i>
+  <i>ML Explorer | Competitive Programmer | Cybersecurity Learner | Kaggle Expert</i>
 </p>
 
 ---
