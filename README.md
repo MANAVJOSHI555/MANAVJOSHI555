@@ -47,9 +47,9 @@
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [Kaggle](https://kaggle.com/your-kaggle)  
-- [Email](mailto:your@email.com)  
+- [LinkedIn](https://www.linkedin.com/in/manav-joshi-b621bb296/)  
+- [Kaggle](https://www.kaggle.com/manavjoshi555)  
+- [Email](mailto:manavjoshi266@gmail.com)  
 - [Portfolio Website](https://your-portfolio.com) *(coming soon)*
 
 ---
