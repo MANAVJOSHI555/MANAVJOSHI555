@@ -23,6 +23,9 @@
 | [**spammailprediction-app**](https://github.com/MANAVJOSHI555/spammailprediction-app) | Spam detection model using text data | Python, NLP, Streamlit |
 | [**Complete-Placement-Prediction-Project**](https://github.com/MANAVJOSHI555/Complete-Placement-Prediction-Project) | ML app to predict student placement | HTML, CSS, Flask |
 | [**MLGDSC**](https://github.com/MANAVJOSHI555/MLGDSC) | ML sessions and workshops repo | Python |
+| [**DLMODELS**](https://github.com/MANAVJOSHI555/DEEP-LEARNING-MODELS.git) | DL Models TRained on diffrent datasets ANN,CNN |
+
+
 
 ---
 
