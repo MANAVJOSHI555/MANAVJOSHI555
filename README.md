@@ -54,7 +54,7 @@
 - [LinkedIn](https://www.linkedin.com/in/manav-joshi-b621bb296/)  
 - [Kaggle](https://www.kaggle.com/manavjoshi555)  
 - [Email](mailto:manavjoshi266@gmail.com)  
-- [Portfolio Website](https://your-portfolio.com) *(coming soon)*
+- [Portfolio Website](https://portfolioweb-xi-sable.vercel.app/)
 
 ---
 
