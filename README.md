@@ -55,7 +55,7 @@
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/manav-joshi-b621bb296/)  
-- [Kaggle](https://www.kaggle.com/manavjoshi555)  
+- [Kaggle](https://www.kaggle.com/manavjoshi5085)  
 - [Email](mailto:manavjoshi266@gmail.com)  
 - [Portfolio Website](https://portfolioweb-xi-sable.vercel.app/)
 
