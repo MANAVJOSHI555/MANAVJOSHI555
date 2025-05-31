@@ -20,7 +20,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [**TRAINED-ML-MODELS**](https://github.com/MANAVJOSHI555/TRAINED-ML-MODELS) | 12+ ML models on real-world datasets | Python, Scikit-learn, Pandas |
-| [**spammailprediction-app**](https://github.com/MANAVJOSHI555/spammailprediction-app) | Spam detection model using text data | Python, NLP, Streamlit |
+| [**spammailprediction-app**](https://github.com/MANAVJOSHI555/Complete_Spam_ham_Prediction.git) | Spam detection model using text data | Python, TF-IDF Vectorizer, Deployed Using Flask On Render |
 | [**Complete-Placement-Prediction-Project**](https://github.com/MANAVJOSHI555/Complete-Placement-Prediction-Project) | ML app to predict student placement | HTML, CSS, Flask |
 | [**MLGDSC**](https://github.com/MANAVJOSHI555/MLGDSC) | ML sessions and workshops repo | Python |
 | [**DLMODELS**](https://github.com/MANAVJOSHI555/DEEP-LEARNING-MODELS.git) | DL Models Trained on diffrent datasets ANN,CNN Models | TensorFlow, Keras |
