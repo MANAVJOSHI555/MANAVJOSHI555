@@ -19,6 +19,8 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+https://github.com/MANAVJOSHI555/Complete-resume-Reviewer-
+| [**GENERATIVE AI PROJECT LLM**](https://github.com/MANAVJOSHI555/Complete-resume-Reviewer-) | A Resume Reviewer HIRE RADAR using Gemini 1.5 Flash LLM model deployed on streamlit It reviews and provide suggestion on given prompts|
 | [**TRAINED-ML-MODELS**](https://github.com/MANAVJOSHI555/TRAINED-ML-MODELS) | 12+ ML models on real-world datasets | Python, Scikit-learn, Pandas |
 | [**spammailprediction-app**](https://github.com/MANAVJOSHI555/Complete_Spam_ham_Prediction.git) | Spam detection model using text data | Python, TF-IDF Vectorizer, Deployed Using Flask On Render |
 | [**Complete-Placement-Prediction-Project**](https://github.com/MANAVJOSHI555/Complete-Placement-Prediction-Project) | ML app to predict student placement | HTML, CSS, Flask |
