@@ -26,6 +26,8 @@
 | [**MLGDSC**](https://github.com/MANAVJOSHI555/MLGDSC) | ML sessions and workshops repo | Python |
 | [**DLMODELS**](https://github.com/MANAVJOSHI555/DEEP-LEARNING-MODELS.git) | DL Models Trained on diffrent datasets ANN,CNN Models | TensorFlow, Keras |
 | [**MENTAL HEALTH CHATBOT**](https://github.com/MANAVJOSHI555/mental-health-chatbot.git) | Chatbot make using Dialogflow for mental health support and conversation | NLP, Dialogflow |
+| [**TOXIC CHAT DETECTION MODEL**](https://github.com/MANAVJOSHI555/NLP-MODELS) | A model which prevents uder to write bad and toxic words in chat | NLP, DistillBERT |
+
 
 
 
