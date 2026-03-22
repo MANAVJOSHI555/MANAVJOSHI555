@@ -1,53 +1,59 @@
-<h1 align="center">Hi, I'm Manav Joshi! 👋</h1>
-<p align="center">
-  <i>ML Explorer | Competitive Programmer | Cybersecurity Learner | Kaggle Masters</i>
+# Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> I'm Manav Joshi ! 
+
+<h2>  Let's Build Powerful AI Systems & Solve Real World Problems 🚀 </h2> 
+
+---
+
+## 💫 About Me:
+<img align="right" alt="Coding" width="230" height="230" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif">
+
+<p align="left">
+
+<br>🌟 AI/ML Enthusiast | Kaggle Master | Competitive Programmer | Cybersecurity Learner  
+<br><br>💬 "Consistency, Curiosity, and Courage – that's the code I live by."  
+<br>🚀 Building ML, DL & Generative AI Projects  
+<br>🎯 Goal: Crack ML Internships & Become Top AI Engineer  
+
 </p>
+<br>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=MANAVJOSHI555&label=Profile%20views&color=0e75b6&style=flat" alt="MANAVJOSHI555" /> 
+</p> 
 
 ---
 
-## 💡 About Me
-
-- 🏆 **KAGGLE MASTER**
-- 🔍 Exploring the world of **Machine Learning**, **Cybersecurity**, and **Competitive Programming**
-- 💻 Currently learning **C++**, **DSA**, **Deep Learning**, and **Generative AI**
-- 🛠️ Passionate about building real-world projects and helping others through tech
-- 🎯 Goal: Contribute to **open-source**, crack **ML internships**, and grow with the community!
+### 🏆 **GitHub Trophies:**
+![](https://github-profile-trophy.vercel.app/?username=MANAVJOSHI555&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-## 📂 My Top Projects
+## 🛠️ Languages and Tools:
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [**NYAYA AI MODEL**](https://github.com/MANAVJOSHI555/NyayaAI.git) | Nyaya is a privacy-first, locally deployed AI legal assistant trained specifically on the new Indian penal code, the Bharatiya Nyaya Sanhita (BNS).| TRL,SFT Fine Tuning + RAG Hybrid Architecture |
-| [**GENERATIVE AI PROJECT LLM**](https://github.com/MANAVJOSHI555/Complete-resume-Reviewer-) | A Resume Reviewer HIRE RADAR using Gemini 1.5 Flash LLM model deployed on streamlit It reviews and provide suggestion on given prompts|
-| [**TRAINED-ML-MODELS**](https://github.com/MANAVJOSHI555/TRAINED-ML-MODELS) | 12+ ML models on real-world datasets | Python, Scikit-learn, Pandas |
-| [**spammailprediction-app**](https://github.com/MANAVJOSHI555/Complete_Spam_ham_Prediction.git) | Spam detection model using text data | Python, TF-IDF Vectorizer, Deployed Using Flask On Render |
-| [**Complete-Placement-Prediction-Project**](https://github.com/MANAVJOSHI555/Complete-Placement-Prediction-Project) | ML app to predict student placement | HTML, CSS, Flask |
-| [**MLGDSC**](https://github.com/MANAVJOSHI555/MLGDSC) | ML sessions and workshops repo | Python |
-| [**DLMODELS**](https://github.com/MANAVJOSHI555/DEEP-LEARNING-MODELS.git) | DL Models Trained on diffrent datasets ANN,CNN Models | TensorFlow, Keras |
-| [**MENTAL HEALTH CHATBOT**](https://github.com/MANAVJOSHI555/mental-health-chatbot.git) | Chatbot make using Dialogflow for mental health support and conversation | NLP, Dialogflow |
-| [**TOXIC CHAT DETECTION MODEL**](https://github.com/MANAVJOSHI555/NLP-MODELS) | A model which prevents uder to write bad and toxic words in chat | NLP, DistillBERT |
-
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,git,github,vscode,jupyter,tensorflow,sklearn&perline=9)](#)
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚀 Featured Projects:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+🔹 **Nyaya AI Model**  
+→ AI Legal Assistant using BNS (RAG + Fine-Tuning)
+
+🔹 **Hire Radar (LLM Resume Reviewer)**  
+→ Gemini-based AI Resume Analyzer  
+
+🔹 **Spam Mail Detection App**  
+→ NLP + Flask Deployment  
+
+🔹 **Placement Prediction System**  
+→ ML Model with Web App  
+
+🔹 **Toxic Chat Detection Model**  
+→ NLP + DistilBERT  
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MANAVJOSHI555&show_icons=true&theme=tokyonight" />
@@ -56,14 +62,26 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Lets Connect:
 
-- [LinkedIn](https://www.linkedin.com/in/manav-joshi-b621bb296/)  
-- [Kaggle](https://www.kaggle.com/manavjoshi5085)  
-- [Email](mailto:manavjoshi266@gmail.com)  
-- [Portfolio Website](https://portfolioweb-xi-sable.vercel.app/)
+<a href="https://portfolioweb-xi-sable.vercel.app/" title="Portfolio">
+<img src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30"/>
+</a>
+
+<a href="mailto:manavjoshi266@gmail.com" title="Email">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manav-joshi-b621bb296/" title="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+</a>
+
+<a href="https://www.kaggle.com/manavjoshi5085" title="Kaggle">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="30"/>
+</a>
 
 ---
 
-_“Consistency, Curiosity, and Courage – that's the code I live by.”_
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
