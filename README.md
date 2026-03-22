@@ -39,17 +39,17 @@
 🔹 [**Nyaya AI Model**](https://github.com/MANAVJOSHI555/NyayaAI.git)  
 → AI Legal Assistant using BNS (RAG + Fine-Tuning)
 
-🔹 [**Hire Radar (LLM Resume Reviewer)**](https://github.com/MANAVJOSHI555/Complete-resume-Reviewer-)  
-→ Gemini-based AI Resume Analyzer  
+🔹 [**Emotional Intelligence System**](https://github.com/MANAVJOSHI555/Emotional-Intelligence-System-.git)  
+→ A multi-target NLP pipeline predicting user emotion, intensity, and personalized wellness actions from unstructured text.
 
 🔹 [**Spam Mail Detection App**](https://github.com/MANAVJOSHI555/Complete_Spam_ham_Prediction.git)  
-→ NLP + Flask Deployment  
+→ NLP + Flask Deployment.
 
 🔹 [**Placement Prediction System**](https://github.com/MANAVJOSHI555/Complete-Placement-Prediction-Project)  
-→ ML Model with Web App  
+→ ML Model with Web App using Flask Backend.
 
 🔹 [**Toxic Chat Detection Model**](https://github.com/MANAVJOSHI555/NLP-MODELS)  
-→ NLP + DistilBERT  
+→ NLP + DistilBERT  model for toxic chat classification.
 
 ---
 
