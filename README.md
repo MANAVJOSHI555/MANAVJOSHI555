@@ -19,6 +19,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [**NYAYA AI MODEL**](https://github.com/MANAVJOSHI555/NyayaAI.git) | Nyaya is a privacy-first, locally deployed AI legal assistant trained specifically on the new Indian penal code, the Bharatiya Nyaya Sanhita (BNS).| TRL,SFT Fine Tuning + RAG Hybrid Architecture |
 | [**GENERATIVE AI PROJECT LLM**](https://github.com/MANAVJOSHI555/Complete-resume-Reviewer-) | A Resume Reviewer HIRE RADAR using Gemini 1.5 Flash LLM model deployed on streamlit It reviews and provide suggestion on given prompts|
 | [**TRAINED-ML-MODELS**](https://github.com/MANAVJOSHI555/TRAINED-ML-MODELS) | 12+ ML models on real-world datasets | Python, Scikit-learn, Pandas |
 | [**spammailprediction-app**](https://github.com/MANAVJOSHI555/Complete_Spam_ham_Prediction.git) | Spam detection model using text data | Python, TF-IDF Vectorizer, Deployed Using Flask On Render |
